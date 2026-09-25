@@ -16,3 +16,15 @@
 - 1曲リピート、全曲リピート、リピート OFF
 
 音楽ファイルは同梱されていません。公開ページのスクリーンショットは架空のサンプル曲とジャケットを表示したものです。
+
+---
+
+## English
+
+Musicker 1.0.0 is a portable, vintage amplifier-inspired music player for 64-bit Windows.
+
+Download `Musicker-1.0.0-Windows.exe` from **Assets** and run it. No installation is required. This build is not digitally signed, so Windows may show a warning or restrict it from running. Check the download source before opening the file.
+
+Features include loading an iTunes library XML file or a music folder, selecting playlists, shuffle with original-order restore, and repeat one/all/off. Some interface text is currently in Japanese. In **PLAYLIST**, **iTunesプレイリストを読み込む** means “Load iTunes playlist” and **音楽フォルダを読み込む** means “Load music folder”.
+
+No music files are included. The WILDLUCK songs and cover art in the screenshot are fictional samples shown for illustration only.

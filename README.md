@@ -25,3 +25,25 @@
 ## 対応環境
 
 Windows 64 ビット
+
+---
+
+## English
+
+Musicker is a free, portable music player for 64-bit Windows with a vintage amplifier-inspired interface.
+
+The screenshot above shows fictional WILDLUCK sample tracks and cover art. Neither the sample music nor the cover art is included in the app.
+
+### Download
+
+[Download the latest release](../../releases/latest). Under **Assets**, download `Musicker-1.0.0-Windows.exe` and run it. No installation is required.
+
+This build is not digitally signed. Windows may display a security warning or restrict it from running. Check the download source before opening the file.
+
+### How to use
+
+1. Open **PLAYLIST** in the upper-right corner.
+2. Choose **iTunesプレイリストを読み込む** (“Load iTunes playlist”) or **音楽フォルダを読み込む** (“Load music folder”). Some interface text is currently in Japanese.
+3. Select a song to play. Use **SHUFFLE** and **REPEAT** to control playback.
+
+Music files are not included. Choose your own music folder, or provide an iTunes library XML file to import playlists.
