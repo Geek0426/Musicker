@@ -1,0 +1,6 @@
+*.exe
+*.zip
+*.7z
+*.log
+node_modules/
+win-unpacked/
